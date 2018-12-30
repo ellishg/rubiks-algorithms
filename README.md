@@ -4,10 +4,10 @@ A collection of my favorite Rubik's Cube algorithms.
 
 * [Notation](#Notation)
 * [Algorithms](#Algorithms)
-  * [2 Look OLL](#2%20Look%20OLL)
-  * [2 Look PLL](#2 Look PLL)
-  * [Pocket Cube](#Pocket Cube)
-  * [Rubik's Cube Revenge](#Rubik's Cube Revenge)
+  * [2 Look OLL](#2-Look-OLL)
+  * [2 Look PLL](#2-Look-PLL)
+  * [Pocket Cube](#Pocket-Cube)
+  * [Rubik's Cube Revenge](#Rubiks-Cube-Revenge)
 
 ***
 
