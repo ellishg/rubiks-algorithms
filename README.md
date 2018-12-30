@@ -6,8 +6,8 @@ A collection of my favorite Rubik's Cube algorithms.
 * [Algorithms](#Algorithms)
   * [2 Look OLL](#2-Look-OLL)
   * [2 Look PLL](#2-Look-PLL)
-  * [Pocket Cube](#Pocket-Cube)
-  * [Rubik's Cube Revenge](#Rubiks-Cube-Revenge)
+  * [Pocket Cube](#Pocket-Cube-2x2)
+  * [Rubik's Cube Revenge](#Rubiks-Cube-Revenge-4x4)
 
 ***
 
