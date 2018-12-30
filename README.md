@@ -9,8 +9,6 @@ A collection of my favorite Rubik's Cube algorithms.
   * [Pocket Cube](#Pocket-Cube-2x2)
   * [Rubik's Cube Revenge](#Rubiks-Cube-Revenge-4x4)
 
-***
-
 ## Notation
 
 ### Faces
@@ -39,8 +37,6 @@ A lowercase letter means you need to turn the middle layer along with the corres
 * __F2__ :point_right: Turn front face twice
 * __D' R__ :point_right: Turn bottom face counter-clockwise, then the right face clockwise
 * __x M R2__ :point_right: Turn cube so top face is towards you, then rotate the middle slice clockwise and the right face twice
-
-***
 
 ## Algorithms
 
@@ -94,10 +90,8 @@ http://cubefreak.net/bld/3op_guide.php
 | CCW Corner Orientation Triple | __(R' D R D')*2__                         |
 | Cycle Permutation | __R B' R F2 R' B R F2 R2__                            |
 
-***
 ### Pocket Cube (2x2)
 
-***
 ### Rubik's Cube Revenge (4x4)
 | Name              | Algorithm                                             |
 |:-----------------:|:-----------------------------------------------------:|
