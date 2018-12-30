@@ -2,16 +2,16 @@
 
 A collection of my favorite Rubik's Cube algorithms.
 
-* [Move Notation](#Move Notation)
+* [Notation](#Notation)
 * [Algorithms](#Algorithms)
-  * [2 Look OLL](#2 Look OLL)
+  * [2 Look OLL](#2\ Look\ OLL)
   * [2 Look PLL](#2 Look PLL)
   * [Pocket Cube](#Pocket Cube)
   * [Rubik's Cube Revenge](#Rubik's Cube Revenge)
 
 ***
 
-## Move Notation
+## Notation
 
 ### Faces
 * __F__ :point_right: Front
