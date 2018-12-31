@@ -89,7 +89,9 @@ http://cubefreak.net/bld/3op_guide.php
 
 A single letter implies a __clockwise__ turn of 90 degrees when viewed directly at the face. If it's followed by a prime, then it implies a __counter-clockwise__ turn. It it's followed by a __2__, then it implies a __half__ turn of 180 degrees.
 
-A lowercase letter means you need to turn the middle layer along with the corresponding face so that two layers move.
+A lowercase letter means you need to turn two layers of the corresponding face.
+
+With the Rubik's Cube Revenge, a __2__ in front of a letter means you only turn the inner layer of that face.
 
 ### Examples
 * __F2__ :point_right: Turn front face twice
