@@ -44,39 +44,39 @@ A lowercase letter means you need to turn the middle layer along with the corres
 Orientation Last Layer
 
 #### Edge Orientation
-| Name              | Algorithm                                             |
-|:-----------------:|:-----------------------------------------------------:|
-| Opposite          | __F R U R' U' F'__                                    |
-| Adjacent          | __f R U R' U' f'__                                    |
-| None              | __F R U R' U' F' f R U R' U' f'__                     |
+| Name | Image |  Algorithm |
+|:----:|:-----:|:----------:|
+| Opposite | ![](img/oll/opposite.png) | __F (R U R' U') F'__ |
+| Adjacent | ![](img/oll/adjacent.png) | __f (R U R' U') f'__ |
+| None | ![](img/oll/none.png) | __F (R U R' U') F' f (R U R' U') f'__ |
 
 #### Corner Orientation
-| Name              | Algorithm                                             |
-|:-----------------:|:-----------------------------------------------------:|
-| Sune              | __R U R' U R U2 R'__                                  |
-| Anti-Sune         | __R' U' R U' R' U2 R__                                |
-| Car :car:         | __F (R U R' U')*3 F'__                                |
-| Blinker           | __R U2 R2 U' R2 U' R2 U2 R__                          |
-| Headlights        | __R2 D R' U2 R D' R' U2 R'__                          |
-| Chameleon         | __r U R' U' r F R F'__                                |
-| Bowtie :bowtie:   | __F' r U R' U' r' F R__                               |
+| Name | Image |  Algorithm |
+|:----:|:-----:|:----------:|
+| Sune | ![](img/oll/sune.png) | __R U R' U R U2 R'__ |
+| Anti-Sune | ![](img/oll/anti_sune.png) | __R' U' R U' R' U2 R__ |
+| Car :car: | ![](img/oll/car.png) | __F (R U R' U')*3 F'__ |
+| Blinker |![](img/oll/blinker.png) | __R U2 R2 U' R2 U' R2 U2 __ |
+| Headlights | ![](img/oll/headlights.png) | __R2 D R' U2 R D' R' U2 R'__ |
+| Chameleon | ![](img/oll/chameleon.png) | __r U R' U' r F R F'__ |
+| Bowtie :bowtie: | ![](img/oll/bowtie.png) | __F' r U R' U' r' F R__ |
 
 ### 2 Look PLL
 Permutation Last Layer
 
 #### Corner Permutation
-| Name              | Algorithm                                             |
-|:-----------------:|:-----------------------------------------------------:|
-| CW Corner 3-Cycle | __x R' U R' D2 R U' R' D2 R2__                        |
-| E-Perm            | __x' R U' R' D R U R' u2 R' U R D R' U' R__           |
+| Name | Image | Algorithm |
+|:----:|:-----:|:---------:|
+| CW Corner 3-Cycle | ![](img/pll/corner_3cycle.png) | __x R' U R' D2 R U' R' D2 R2__ |
+| E-Perm            | ![](img/pll/eperm.png) | __x' R U' R' D R U R' u2 R' U R D R' U' R__ |
 
 #### Edge Permutation
-| Name              | Algorithm                                             |
-|:-----------------:|:-----------------------------------------------------:|
-| CW Edge 3-Cycle   | __R2 U R U R' U' R' U' R' U R'__                      |
-| CCW Edge 3-Cycle  | __R U' R U R U R U' R' U' R2__                        |
-| H-Perm            | __M2 U M2 U2 M2 U M2__                                |
-| Z-Perm            | __M2 U M2 U M' U2 M2 U2 M' U2__                       |
+| Name | Image | Algorithm |
+|:----:|:-----:|:---------:|
+| CW Edge 3-Cycle | ![](img/pll/edge_cw_3cycle.png) | __R2 U R U R' U' R' U' R' U R'__ |
+| CCW Edge 3-Cycle | ![](img/pll/edge_ccw_3cycle.png) | __R U' R U R U R U' R' U' R2__ |
+| H-Perm |![](img/pll/hperm.png) | __M2 U M2 U2 M2 U M2__ |
+| Z-Perm | ![](img/pll/zperm.png) | __M2 U M2 U M' U2 M2 U2 M' U2__ |
 
 ### Blindfold
 http://cubefreak.net/bld/3op_guide.php
