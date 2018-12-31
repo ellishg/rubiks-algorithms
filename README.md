@@ -67,6 +67,9 @@ http://www.rubiksplace.com/cubes/4x4/
 
 | Name | Image | Algorithm |
 |:----:|:-----:|:---------:|
+| Edge Merge | ![](img/revenge/edge_merge.png) | __d R U R' d'__ |
+| Anti-Edge Merge | ![](img/revenge/anti_edge_merge.png) | __d' L' U' L d__ |
+| Double Edge Merge | ![](img/revenge/double_edge_merge.png) | __d R F' U R' F d'__ |
 | OLL Parity | ![](img/revenge/oll.png) | __r U2 x r U2 r U2 r' U2 l U2 r' U2 r U2 r' U2 r'__ |
 | PLL Parity | ![](img/revenge/pll.png) | __2R2 U2 2R2 u2 2R2 2U2__ |
 
