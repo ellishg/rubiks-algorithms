@@ -93,7 +93,7 @@ http://cubefreak.net/bld/3op_guide.php
 ### Pocket Cube (2x2)
 
 ### Rubik's Cube Revenge (4x4)
-| Name              | Algorithm                                             |
-|:-----------------:|:-----------------------------------------------------:|
-| OLL Parity        | __r U2 x r U2 r U2 r' U2 l U2 r' U2 r U2 r' U2 r'__   |
-| PLL Parity        | __2R2 U2 2R2 u2 2R2 2U2__                             |
+| Name | Image | Algorithm |
+|:----:|:-----:|:---------:|
+| OLL Parity | ![](img/revenge/oll.png) | __r U2 x r U2 r U2 r' U2 l U2 r' U2 r U2 r' U2 r'__ |
+| PLL Parity | ![](img/revenge/pll.png) | __2R2 U2 2R2 u2 2R2 2U2__ |
