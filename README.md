@@ -26,7 +26,7 @@ Orientation Last Layer
 | Sune | ![](img/oll/sune.png) | __R U R' U R U2 R'__ |
 | Anti-Sune | ![](img/oll/anti_sune.png) | __R' U' R U' R' U2 R__ |
 | Car :car: | ![](img/oll/car.png) | __F (R U R' U')*3 F'__ |
-| Blinker | ![](img/oll/blinker.png) | __R U2 R2 U' R2 U' R2 U2 __ |
+| Blinker | ![](img/oll/blinker.png) | __R U2 R2 U' R2 U' R2 U2 R__ |
 | Headlights | ![](img/oll/headlights.png) | __R2 D R' U2 R D' R' U2 R'__ |
 | Chameleon | ![](img/oll/chameleon.png) | __r U R' U' r' F R F'__ |
 | Bowtie :bowtie: | ![](img/oll/bowtie.png) | __F' r U R' U' r' F R__ |
