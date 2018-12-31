@@ -3,6 +3,7 @@
 * [Algorithms](#Algorithms)
   * [2 Look OLL](#2-Look-OLL)
   * [2 Look PLL](#2-Look-PLL)
+  * [Blindfold](#Blindfold)
   * [Pocket Cube](#Pocket-Cube-2x2)
   * [Rubik's Cube Revenge](#Rubiks-Cube-Revenge-4x4)
 * [Notation](#Notation)
