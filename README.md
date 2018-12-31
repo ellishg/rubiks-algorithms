@@ -28,7 +28,7 @@ Orientation Last Layer
 | Car :car: | ![](img/oll/car.png) | __F (R U R' U')*3 F'__ |
 | Blinker | ![](img/oll/blinker.png) | __R U2 R2 U' R2 U' R2 U2 __ |
 | Headlights | ![](img/oll/headlights.png) | __R2 D R' U2 R D' R' U2 R'__ |
-| Chameleon | ![](img/oll/chameleon.png) | __r U R' U' r F R F'__ |
+| Chameleon | ![](img/oll/chameleon.png) | __r U R' U' r' F R F'__ |
 | Bowtie :bowtie: | ![](img/oll/bowtie.png) | __F' r U R' U' r' F R__ |
 
 ### 2 Look PLL
