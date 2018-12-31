@@ -25,7 +25,7 @@ Orientation Last Layer
 | Sune | ![](img/oll/sune.png) | __R U R' U R U2 R'__ |
 | Anti-Sune | ![](img/oll/anti_sune.png) | __R' U' R U' R' U2 R__ |
 | Car :car: | ![](img/oll/car.png) | __F (R U R' U')*3 F'__ |
-| Blinker |![](img/oll/blinker.png) | __R U2 R2 U' R2 U' R2 U2 __ |
+| Blinker | ![](img/oll/blinker.png) | __R U2 R2 U' R2 U' R2 U2 __ |
 | Headlights | ![](img/oll/headlights.png) | __R2 D R' U2 R D' R' U2 R'__ |
 | Chameleon | ![](img/oll/chameleon.png) | __r U R' U' r F R F'__ |
 | Bowtie :bowtie: | ![](img/oll/bowtie.png) | __F' r U R' U' r' F R__ |
@@ -48,13 +48,11 @@ Permutation Last Layer
 | Z-Perm | ![](img/pll/zperm.png) | __M2 U M2 U M' U2 M2 U2 M' U2__ |
 
 ### Blindfold
-| Name | Image | Algorithm |
-|:----:|:-----:|:---------:|
+| Name | Image | Algorithm | Inverse |
+|:----:|:-----:|:---------:|:-------:|
 | Edge Orientation | ![](img/blind/edge.png) | __M' U M' U M' U2 M U M U M U2__ |
-| CW Corner Orientation Pair | ![](img/blind/.png) | __R' D' R D R' D' R__ |
-| CCW Corner Orientation Pair | ![](img/blind/.png) | __R' D R D' R' D R__ |
-| CW Corner Orientation Triple | ![](img/blind/.png) | __(R' D' R D)*2__ |
-| CCW Corner Orientation Triple | ![](img/blind/.png) | __(R' D R D')*2__ |
+| Corner Orientation Pair | ![](img/blind/.png) | __R' D' R D R' D' R__ | __R' D R D' R' D R__ |
+| Corner Orientation Triple | ![](img/blind/.png) | __(R' D' R D)*2__ | __(R' D R D')*2__ |
 | Cycle Permutation | ![](img/blind/.png) | __R B' R F2 R' B R F2 R2__ |
 
 ### Pocket Cube (2x2)
