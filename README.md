@@ -48,16 +48,14 @@ Permutation Last Layer
 | Z-Perm | ![](img/pll/zperm.png) | __M2 U M2 U M' U2 M2 U2 M' U2__ |
 
 ### Blindfold
-http://cubefreak.net/bld/3op_guide.php
-
-| Name              | Algorithm                                             |
-|:-----------------:|:-----------------------------------------------------:|
-| Edge Orientation  | __M' U M' U M' U2 M U M U M U2__                      |
-| CW Corner Orientation Pair | __R' D' R D R' D' R__                        |
-| CCW Corner Orientation Pair | __R' D R D' R' D R__                        |
-| CW Corner Orientation Triple | __(R' D' R D)*2__                          |
-| CCW Corner Orientation Triple | __(R' D R D')*2__                         |
-| Cycle Permutation | __R B' R F2 R' B R F2 R2__                            |
+| Name | Image | Algorithm |
+|:----:|:-----:|:---------:|
+| Edge Orientation | ![](img/blind/edge.png) | __M' U M' U M' U2 M U M U M U2__ |
+| CW Corner Orientation Pair | ![](img/blind/.png) | __R' D' R D R' D' R__ |
+| CCW Corner Orientation Pair | ![](img/blind/.png) | __R' D R D' R' D R__ |
+| CW Corner Orientation Triple | ![](img/blind/.png) | __(R' D' R D)*2__ |
+| CCW Corner Orientation Triple | ![](img/blind/.png) | __(R' D R D')*2__ |
+| Cycle Permutation | ![](img/blind/.png) | __R B' R F2 R' B R F2 R2__ |
 
 ### Pocket Cube (2x2)
 
