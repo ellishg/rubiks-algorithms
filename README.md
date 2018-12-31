@@ -49,16 +49,22 @@ Permutation Last Layer
 | Z-Perm | ![](img/pll/zperm.png) | __M2 U M2 U M' U2 M2 U2 M' U2__ |
 
 ### Blindfold
+http://cubefreak.net/bld/3op_guide.php
+
 | Name | Image | Algorithm | Inverse |
 |:----:|:-----:|:---------:|:-------:|
 | Edge Orientation | ![](img/blind/edge.png) | __M' U M' U M' U2 M U M U M U2__ |
-| Corner Orientation Pair | ![](img/blind/.png) | __R' D' R D R' D' R__ | __R' D R D' R' D R__ |
-| Corner Orientation Triple | ![](img/blind/.png) | __(R' D' R D)*2__ | __(R' D R D')*2__ |
-| Cycle Permutation | ![](img/blind/.png) | __R B' R F2 R' B R F2 R2__ |
+| Corner Orientation Pair |  | __R' D' R D R' D' R__ | __R' D R D' R' D R__ |
+| Corner Orientation Triple |  | __(R' D' R D)*2__ | __(R' D R D')*2__ |
+| Cycle Permutation |  | __R B' R F2 R' B R F2 R2__ |
 
 ### Pocket Cube (2x2)
+#### TODO
+http://www.cubewhiz.com/ortegapbl.php
 
 ### Rubik's Cube Revenge (4x4)
+http://www.rubiksplace.com/cubes/4x4/
+
 | Name | Image | Algorithm |
 |:----:|:-----:|:---------:|
 | OLL Parity | ![](img/revenge/oll.png) | __r U2 x r U2 r U2 r' U2 l U2 r' U2 r U2 r' U2 r'__ |
