@@ -53,7 +53,7 @@ http://cubefreak.net/bld/3op_guide.php
 
 | Name | Image | Algorithm | Inverse |
 |:----:|:-----:|:---------:|:-------:|
-| Edge Orientation | ![](img/blind/edge.png) | __M' U M' U M' U2 M U M U M U2__ |
+| Edge Orientation | ![](img/blind/edge.png) | [__M' U M' U M' U2 M U M U M U2__](https://alg.cubing.net/?type=alg&alg=M-UM-UM-U2MUMUMU2&view=playback) |
 | Corner Orientation Pair |  | __R' D' R D R' D' R__ | __R' D R D' R' D R__ |
 | Corner Orientation Triple |  | __(R' D' R D)*2__ | __(R' D R D')*2__ |
 | Cycle Permutation |  | __R B' R F2 R' B R F2 R2__ |
@@ -67,9 +67,9 @@ http://www.rubiksplace.com/cubes/4x4/
 
 | Name | Image | Algorithm |
 |:----:|:-----:|:---------:|
-| Edge Merge | ![](img/revenge/edge_merge.png) | __d R U R' d'__ |
-| Anti-Edge Merge | ![](img/revenge/anti_edge_merge.png) | __d' L' U' L d__ |
-| Double Edge Merge | ![](img/revenge/double_edge_merge.png) | __d R F' U R' F d'__ |
+| Edge Merge | ![](img/revenge/edge_merge.png) | [__d R U R' d'__](https://alg.cubing.net/?type=alg&puzzle=4x4x4&alg=dRUR-d-&setup=y&view=playback) |
+| Anti-Edge Merge | ![](img/revenge/anti_edge_merge.png) | [__d' L' U' L d__](https://alg.cubing.net/?type=alg&puzzle=4x4x4&alg=d-L-U-Ld&setup=y&view=playback) |
+| Double Edge Merge | ![](img/revenge/double_edge_merge.png) | [__d R F' U R' F d'__](https://alg.cubing.net/?type=alg&puzzle=4x4x4&alg=dRF-UR-Fd-&setup=y&view=playback) |
 | OLL Parity | ![](img/revenge/oll.png) | [__r U2 x r U2 r U2 r' U2 l U2 r' U2 r U2 r' U2 r'__](https://alg.cubing.net/?puzzle=4x4x4&alg=r_U2_x_r_U2_r_U2_r-_U2_l_U2_r-_U2_r_U2_r-_U2_r-&type=alg&setup=xx&view=playback) |
 | PLL Parity | ![](img/revenge/pll.png) | [__2R2 U2 2R2 u2 2R2 2U2__](https://alg.cubing.net/?puzzle=4x4x4&alg=2R2_U2_2R2_u2_2R2_2U2&type=alg&setup=xx&view=playback) |
 
