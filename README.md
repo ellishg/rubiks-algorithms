@@ -70,8 +70,8 @@ http://www.rubiksplace.com/cubes/4x4/
 | Edge Merge | ![](img/revenge/edge_merge.png) | __d R U R' d'__ |
 | Anti-Edge Merge | ![](img/revenge/anti_edge_merge.png) | __d' L' U' L d__ |
 | Double Edge Merge | ![](img/revenge/double_edge_merge.png) | __d R F' U R' F d'__ |
-| OLL Parity | ![](img/revenge/oll.png) | __r U2 x r U2 r U2 r' U2 l U2 r' U2 r U2 r' U2 r'__ |
-| PLL Parity | ![](img/revenge/pll.png) | __2R2 U2 2R2 u2 2R2 2U2__ |
+| OLL Parity | ![](img/revenge/oll.png) | [__r U2 x r U2 r U2 r' U2 l U2 r' U2 r U2 r' U2 r'__](https://alg.cubing.net/?puzzle=4x4x4&alg=r_U2_x_r_U2_r_U2_r-_U2_l_U2_r-_U2_r_U2_r-_U2_r-&type=alg&setup=xx&view=playback) |
+| PLL Parity | ![](img/revenge/pll.png) | [__2R2 U2 2R2 u2 2R2 2U2__](https://alg.cubing.net/?puzzle=4x4x4&alg=2R2_U2_2R2_u2_2R2_2U2&type=alg&setup=xx&view=playback) |
 
 ## Notation
 
