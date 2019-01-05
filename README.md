@@ -74,6 +74,7 @@ http://www.rubiksplace.com/cubes/4x4/
 | PLL Parity | ![](img/revenge/pll.png) | [__2R2 U2 2R2 u2 2R2 2U2__](https://alg.cubing.net/?puzzle=4x4x4&alg=2R2_U2_2R2_u2_2R2_2U2&type=alg&setup=xx&view=playback) |
 
 ## Notation
+http://www.rubiksplace.com/move-notations/
 
 ### Faces
 * __F__ :point_right: Front
