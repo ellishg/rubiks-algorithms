@@ -54,9 +54,9 @@ http://cubefreak.net/bld/3op_guide.php
 | Name | Image | Algorithm | Inverse |
 |:----:|:-----:|:---------:|:-------:|
 | Edge Orientation | ![](img/blind/edge.png) | [__M' U M' U M' U2 M U M U M U2__](https://alg.cubing.net/?type=alg&alg=M-UM-UM-U2MUMUMU2&view=playback) |
-| Corner Orientation Pair |  | __R' D' R D R' D' R__ | __R' D R D' R' D R__ |
-| Corner Orientation Triple |  | __(R' D' R D)*2__ | __(R' D R D')*2__ |
-| Cycle Permutation |  | __R B' R F2 R' B R F2 R2__ |
+| Corner Orientation Pair | ![](img/blind/corner1.png) ![](img/blind/corner2.png) | __R' D' R D R' D' R__ | __R' D R D' R' D R__ |
+| Corner Orientation Triple | ![](img/blind/corner3.png) | __(R' D' R D)*2__ | __(R' D R D')*2__ |
+| Corner Permutation <br> (CW Corner 3-Cycle) | ![](img/pll/corner_3cycle.png) | __x R' U R' D2 R U' R' D2 R2__ <br>(__R B' R F2 R' B R F2 R2__ ) |
 
 ### Pocket Cube (2x2)
 #### TODO
