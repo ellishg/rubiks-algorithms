@@ -60,8 +60,12 @@ http://cubefreak.net/bld/3op_guide.php
 | Edge Permutation <br> (CW Edge 3-Cycle) | ![](img/pll/edge_cw_3cycle.png) | __R2 U R U R' U' R' U' R' U R'__ |
 
 ### Pocket Cube (2x2)
-#### TODO
 http://www.cubewhiz.com/ortegapbl.php
+
+| Name | Image | Algorithm | Inverse |
+|:----:|:-----:|:---------:|:-------:|
+| Corner T-Perm | ![](img/pocket/t_perm.png) | [__(R U R' U') (R' F) (R2 U') (R' U' R U) (R' F')__](https://alg.cubing.net/?puzzle=2x2x2&alg=(R_U_R-_U-)_(R-_F)_(R2_U-)_(R-_U-_R_U)_(R-_F-)&setup=F_R_U-_R-_U_R_U_R2_F-_R_U_R_U-_R-&view=playback) |
+
 
 ### Rubik's Cube Revenge (4x4)
 http://www.rubiksplace.com/cubes/4x4/
