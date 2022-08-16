@@ -11,7 +11,7 @@
 ## Algorithms
 
 ### 2 Look OLL
-Orientation Last Layer
+Orient Last Layer
 
 #### Edge Orientation
 | Name | Image |  Algorithm |
@@ -32,7 +32,7 @@ Orientation Last Layer
 | Bowtie :bowtie: | ![](img/oll/bowtie.png) | __F' r U R' U' r' F R__ |
 
 ### 2 Look PLL
-Permutation Last Layer
+Permute Last Layer
 
 #### Corner Permutation
 | Name | Image | Algorithm |
@@ -56,8 +56,9 @@ http://cubefreak.net/bld/3op_guide.php
 | Edge Orientation | ![](img/blind/edge.png) | [__M' U M' U M' U2 M U M U M U2__](https://alg.cubing.net/?type=alg&alg=M-UM-UM-U2MUMUMU2&view=playback) |
 | Corner Orientation Pair | ![](img/blind/corner1.png) ![](img/blind/corner2.png) | __R' D' R D R' D' R__ | __R' D R D' R' D R__ |
 | Corner Orientation Triple | ![](img/blind/corner3.png) | __(R' D' R D)*2__ | __(R' D R D')*2__ |
-| Corner Permutation <br> (CW Corner 3-Cycle) | ![](img/pll/corner_3cycle.png) | __x R' U R' D2 R U' R' D2 R2__ <br>(__R B' R F2 R' B R F2 R2__ ) |
-| Edge Permutation <br> (CW Edge 3-Cycle) | ![](img/pll/edge_cw_3cycle.png) | __R2 U R U R' U' R' U' R' U R'__ |
+| Corner 3-Cycle | ![](img/pll/corner_3cycle.png) | __x R' U R' D2 R U' R' D2 R2__ |
+| CCW Corner 3-Cycle | ![](img/pll/corner_ccw_3cycle.png) | __R B' R F2 R' B R F2 R2__ |
+| Edge 3-Cycle | ![](img/pll/edge_cw_3cycle.png) | __R2 U R U R' U' R' U' R' U R'__ | __R U' R U R U R U' R' U' R2__ |
 
 ### Pocket Cube (2x2)
 http://www.cubewhiz.com/ortegapbl.php
