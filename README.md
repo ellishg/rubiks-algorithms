@@ -1,4 +1,7 @@
+This repo is archived. Please visit https://ellishg.github.io/posts/rubiks-algorithms/
+
 # Rubik's Cube Algorithms
+
 
 * [Algorithms](#Algorithms)
   * [2 Look OLL](#2-Look-OLL)
